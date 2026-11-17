@@ -1,0 +1,9 @@
+{
+  "chainId": 61999,
+  "rpc": "https://studio.genlayer.com/api",
+  "sdk": "genlayer-js@1.1.8",
+  "address": "0xBf2cCF2CA36e3fc1DB5Fe86A73EAc88a3Def5D94",
+  "transaction": "0x0773577c8cf1ee76ae0ad83060ca118af223e02e615e327cc3e084b746e830b0",
+  "sourceSha256": "5171860fb7ab2452b0098614c3439cf0f8c4d22b915afba609ddf7502f9801e9",
+  "source": "contracts/bankday_net.py"
+}

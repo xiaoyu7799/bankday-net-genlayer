@@ -1,0 +1,17 @@
+{
+  "name": "bankday-net-genlayer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "genlayer-js": "1.1.8"
+  },
+  "scripts": {
+    "test": "python3 -m unittest discover -s tests -v",
+    "check": "python3 -m py_compile contracts/*.py && node --check scripts/live.mjs",
+    "live": "node scripts/live.mjs",
+    "verify": "node scripts/verify.mjs",
+    "deploy": "node scripts/deploy.mjs"
+  }
+}

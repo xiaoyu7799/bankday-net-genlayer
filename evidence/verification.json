@@ -1,0 +1,238 @@
+{
+  "verifiedAt": "2026-11-17T05:39:28.337Z",
+  "address": "0xBf2cCF2CA36e3fc1DB5Fe86A73EAc88a3Def5D94",
+  "chainId": 61999,
+  "sourceMatches": true,
+  "transactions": [
+    {
+      "hash": "0x0773577c8cf1ee76ae0ad83060ca118af223e02e615e327cc3e084b746e830b0",
+      "function": "deploy",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0xadcf25162943592fa5cde873c5cd08fe6518e251f29767555ad0276640502a46",
+      "function": "propose",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0x463ee252be919223b0ed97ac0042977028a0ad64dc3b407e7bdd4059421be6a6",
+      "function": "accept",
+      "status": "FINALIZED",
+      "execution": "FAILURE"
+    },
+    {
+      "hash": "0x19e45b1091696ef8c90a2a62eeea42fce2be98abd9976b7e5706ef67c4f97906",
+      "function": "accept",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0x6ed525c61509e876b6b71654cf9adc91a6d2e99ebb15a4dc53521d93e3b45651",
+      "function": "propose",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0xd32244a3430c44ad8014912800964e96f4be82f917258487cbb3c4d364d8a0a4",
+      "function": "accept",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0x94f26a64ebe9da94f5228db86d14411b78c9579df436dfbd2a22edd427f4b24e",
+      "function": "propose",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0x91a9a9acf66c8bce072cedbe8f6314e440a286dd0e0e7896313c0f10921734d0",
+      "function": "accept",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0xccee594c60db4f68af4c2fd726229e45612f409273f5b15d829927cc323e06c0",
+      "function": "propose",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0xaddc8a478530610e6c6603acf5075b3190a1ddcea87e7f381fe76b9e0b64ba00",
+      "function": "accept",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0x978dee56744a50d9e9f37ca879bd1fe2b928010fe67792166ac0882165d9f6b4",
+      "function": "clear",
+      "status": "FINALIZED",
+      "execution": "FAILURE"
+    },
+    {
+      "hash": "0xd2faead2a1bfe78414a8800fdbf62ff832ec2ded0bfd58bbdee99169eb3414ad",
+      "function": "clear",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0xb850b53c70af2819467e17d8f469b8300e3cf548d4c33e984f4e59c432c33407",
+      "function": "clear",
+      "status": "FINALIZED",
+      "execution": "FAILURE"
+    },
+    {
+      "hash": "0xc6f70783865a91aab11351d9360e17821344f76edc02ff4e8c0d9200fae55c4f",
+      "function": "propose",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0xcda33275e116f495f5f84aa7d6dad3a717ead689473c15e762cf53f76b7c0e66",
+      "function": "cancel",
+      "status": "FINALIZED",
+      "execution": "SUCCESS"
+    },
+    {
+      "hash": "0xf8c5316206ff293eba4f804ada38ee236fea80249b3a2a53c643861b928c8262",
+      "function": "accept",
+      "status": "FINALIZED",
+      "execution": "FAILURE"
+    }
+  ],
+  "finalState": {
+    "batches": [
+      {
+        "calendar": {
+          "business_day": true,
+          "day": "2026-11-17",
+          "division": "england-and-wales",
+          "holidays": [
+            {
+              "date": "2026-01-01",
+              "title": "New Year’s Day"
+            },
+            {
+              "date": "2026-04-03",
+              "title": "Good Friday"
+            },
+            {
+              "date": "2026-04-06",
+              "title": "Easter Monday"
+            },
+            {
+              "date": "2026-05-04",
+              "title": "Early May bank holiday"
+            },
+            {
+              "date": "2026-05-25",
+              "title": "Spring bank holiday"
+            },
+            {
+              "date": "2026-08-31",
+              "title": "Summer bank holiday"
+            },
+            {
+              "date": "2026-12-25",
+              "title": "Christmas Day"
+            },
+            {
+              "date": "2026-12-28",
+              "title": "Boxing Day"
+            }
+          ],
+          "url": "https://www.gov.uk/bank-holidays.json"
+        },
+        "currency": "GBP",
+        "day": "2026-11-17",
+        "id": 0,
+        "invoice_ids": [
+          "0x4fd2822d3bc6b1024543d601f61789e29a9733e1:net-2",
+          "0x95a27e8581430c5bb510e5d50dde35951143f8eb:net-1",
+          "0x95a27e8581430c5bb510e5d50dde35951143f8eb:net-4",
+          "0xad49869170ec0e68244ae68102dcafbcac09d150:net-3"
+        ],
+        "plan": {
+          "balances": {
+            "0x4fd2822d3bc6b1024543d601f61789e29a9733e1": -3000,
+            "0x95a27e8581430c5bb510e5d50dde35951143f8eb": 8000,
+            "0xad49869170ec0e68244ae68102dcafbcac09d150": -5000
+          },
+          "gross_pence": 23000,
+          "net_pence": 8000,
+          "transfers": [
+            {
+              "from": "0x4fd2822d3bc6b1024543d601f61789e29a9733e1",
+              "pence": 3000,
+              "to": "0x95a27e8581430c5bb510e5d50dde35951143f8eb"
+            },
+            {
+              "from": "0xad49869170ec0e68244ae68102dcafbcac09d150",
+              "pence": 5000,
+              "to": "0x95a27e8581430c5bb510e5d50dde35951143f8eb"
+            }
+          ]
+        },
+        "state": "NETTED_NOT_PAID"
+      }
+    ],
+    "invoices": [
+      {
+        "batch_id": 0,
+        "creditor": "0x95a27e8581430c5bb510e5d50dde35951143f8eb",
+        "currency": "GBP",
+        "debtor": "0x4fd2822d3bc6b1024543d601f61789e29a9733e1",
+        "due": "2020-01-01",
+        "id": "0x95a27e8581430c5bb510e5d50dde35951143f8eb:net-1",
+        "pence": 10000,
+        "reference": "net-1",
+        "state": "NETTED"
+      },
+      {
+        "batch_id": 0,
+        "creditor": "0x4fd2822d3bc6b1024543d601f61789e29a9733e1",
+        "currency": "GBP",
+        "debtor": "0xad49869170ec0e68244ae68102dcafbcac09d150",
+        "due": "2020-01-01",
+        "id": "0x4fd2822d3bc6b1024543d601f61789e29a9733e1:net-2",
+        "pence": 7000,
+        "reference": "net-2",
+        "state": "NETTED"
+      },
+      {
+        "batch_id": 0,
+        "creditor": "0xad49869170ec0e68244ae68102dcafbcac09d150",
+        "currency": "GBP",
+        "debtor": "0x95a27e8581430c5bb510e5d50dde35951143f8eb",
+        "due": "2020-01-01",
+        "id": "0xad49869170ec0e68244ae68102dcafbcac09d150:net-3",
+        "pence": 4000,
+        "reference": "net-3",
+        "state": "NETTED"
+      },
+      {
+        "batch_id": 0,
+        "creditor": "0x95a27e8581430c5bb510e5d50dde35951143f8eb",
+        "currency": "GBP",
+        "debtor": "0xad49869170ec0e68244ae68102dcafbcac09d150",
+        "due": "2020-01-01",
+        "id": "0x95a27e8581430c5bb510e5d50dde35951143f8eb:net-4",
+        "pence": 2000,
+        "reference": "net-4",
+        "state": "NETTED"
+      },
+      {
+        "batch_id": null,
+        "creditor": "0x95a27e8581430c5bb510e5d50dde35951143f8eb",
+        "currency": "GBP",
+        "debtor": "0x4fd2822d3bc6b1024543d601f61789e29a9733e1",
+        "due": "2020-01-01",
+        "id": "0x95a27e8581430c5bb510e5d50dde35951143f8eb:cancel-1",
+        "pence": 100,
+        "reference": "cancel-1",
+        "state": "CANCELLED"
+      }
+    ]
+  }
+}

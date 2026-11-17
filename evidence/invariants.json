@@ -1,0 +1,17 @@
+{
+  "verifiedAt": "2026-11-17T05:39:28.340Z",
+  "grossPence": "23000",
+  "netPence": "8000",
+  "positions": {
+    "0x4fd2822d3bc6b1024543d601f61789e29a9733e1": "-3000",
+    "0xad49869170ec0e68244ae68102dcafbcac09d150": "-5000",
+    "0x95a27e8581430c5bb510e5d50dde35951143f8eb": "8000"
+  },
+  "transfersRepresentExactPositions": true,
+  "eachInvoiceConsumedOnce": true,
+  "calendarDay": "2026-11-17",
+  "officialBusinessDayVerified": true,
+  "unauthorizedAndDuplicateCallsPreservedState": true,
+  "cancellationTerminal": true,
+  "paid": false
+}
